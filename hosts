@@ -4,7 +4,6 @@
 # 'hosts' file format) are appended to the unified hosts file during the
 # update process. For example, uncomment the following line to block
 # 'example.com':
-
 # 0.0.0.0 example.com
 0.0.0.0 tiktok.com
 0.0.0.0 www.tiktok.com
